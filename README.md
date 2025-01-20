@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Biribò</h1>
 <h3 align="center">Currently studying for a Bachelor's degree majoring in Computer Science at Università degli studi di Firenze, UniFi</h3>
 
-- 🔭 I’m currently working on [a Minecraft mod](<pkaceholder>)
+- 🔭 I’m currently working on [a Unity platform project](<a href="https://github.com/francy111/FirstPersonPlatformCharacterControl____" target="blank">)
 
 - 🌱 I’m currently learning **Java Minecraft Modding & Unity game development**
 
